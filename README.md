@@ -2,7 +2,7 @@
 
 API criada para registrar, logar e autenticar usuário, utilizando token JWT e criptografia.
 
-Notepad built using
+API built using
 [React](https://reactjs.org/)
 on frontend and
 [Node](https://nodejs.org/)
